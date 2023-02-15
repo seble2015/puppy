@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  width: 100%;
+}
+.head-foot {
+  background-color: rgb(76, 76, 98);
+  color: azure;
+}
+.missing {
+  background-color: red;
+}
+.missing h2 {
+  font-size: 40px;
+}
